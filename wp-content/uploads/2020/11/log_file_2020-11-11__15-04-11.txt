@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/wp_template
+Data file = /Applications/XAMPP/xamppfiles/htdocs/wp_template/wp-content/uploads/2020/11/demo-content-import-file_2020-11-11__15-04-11.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/wp_template/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-11__15-04-11.json
+Customizer file = /Applications/XAMPP/xamppfiles/htdocs/wp_template/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-11__15-04-11.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "unique-fashion.wordpress.2018-10-26.xml_.txt" (Media)
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+FN: Sidebar List Widget - No Title - Imported
+FN: Sidebar List Widget - No Title - Imported
+
+Left Sidebar : 
+
+FN: Sidebar List Widget - No Title - Imported
+FN: Sidebar List Widget - No Title - Imported
+FN: Sidebar List Widget - No Title - Imported
+
+First News : Home Page : 
+
+FN Home: Category Section  - No Title - Imported
+FN Home: Home Page News  - Grid Layout - Imported
+FN Home: Home Page News  - List Layout - Imported
+FN Home: Home Page News  - No Title - Imported
+FN Home: Home Page News  - No Title - Imported
+
+First News : Footer First Section : 
+
+Categories - No Title - Widget already exists
+
+First News : Footer Second Section : 
+
+Recent Posts - No Title - Imported
+
+First News : Footer Third Section : 
+
+Recent Comments - No Title - Imported
+
+First News : Footer Fourth Section : 
+
+Tag Cloud - No Title - Imported
+
+First News Header Ad : Banner Ad : 
+
+Text - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

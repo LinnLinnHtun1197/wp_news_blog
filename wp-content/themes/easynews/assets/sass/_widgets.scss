@@ -1,0 +1,54 @@
+.widget {
+	margin: 0 0 1.5em;
+    .widget-title {
+        font-size: 20px;
+    }
+	/* Make sure select elements fit in widgets. */
+	select {
+		max-width: 100%;
+	}
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        li {
+            clear: both;
+            padding: 0.5em 0;
+        }
+        a {
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.search-form {
+    position: relative;
+    label {
+        width: 100%;
+    }
+    input[type=text] {
+        padding: 12px;
+        font-size: 15px;
+    }
+    .search-submit {
+        position: absolute;
+        top: 3px;
+        right: 3px;
+        padding: 0.5em 1em;
+        width: auto;
+        border-radius: 4px;
+        color: #fff;
+        font-size: 17px;
+    }
+}
+
+.widget_pages,
+.widget_nav_menu,
+.widget_categories {
+    li {
+        border-bottom: 1px solid #ddd;
+    }
+}
